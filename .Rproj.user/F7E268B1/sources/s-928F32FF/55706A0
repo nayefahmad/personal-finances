@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534129015708.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3795639306",
+    "id" : "55706A0",
+    "lastKnownWriteTime" : 1534129100,
+    "last_content_update" : 1534129100733,
+    "path" : "D:/personal-finances/src/01_clean-data.R",
+    "project_path" : "src/01_clean-data.R",
+    "properties" : {
+        "cursorPosition" : "3,21",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
